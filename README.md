@@ -1,1 +1,1 @@
-# ssc
+# ssc.github.io
